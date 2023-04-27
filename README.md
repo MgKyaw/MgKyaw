@@ -4,6 +4,8 @@
 
 <h3>A .NET Developer with 7 years of experience. A professional degree holder of B.C.Sc. Willing to learn new technologies and trying to improve skills frequently. Strong logical thinking from multiple perspectives. Experienced in banking projects. Adapted to work effectively in a fast-paced environment.</h3>
 
+<br>
+
 <b><u>Personal Skills</u></b>
 <ul>
     <li>Strong Problem-solving skills</li>
@@ -13,7 +15,9 @@
     <li>Ability to work in a team environment</li>
     <li>love to code</li>
 </ul>
-    
+
+<br>
+
 <b><u>Technical Skills<u></b>
 <ul>
     <li>Programming Languages: C#, PHP, Python</li>
@@ -24,6 +28,8 @@
     <li>Project management: Nulab Backlog, trello, JIRA, Asana</li>
     <li>Cloud Computing: Azure, AWS</li>
 </ul>
+
+<br>
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning microservices
