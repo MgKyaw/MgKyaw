@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<h1>Mg Kyaw<h1>
+<h1>Mg Kyaw</h1>
 
-A .NET Developer with 7 years of experience. A professional degree holder of B.C.Sc. Willing to learn new technologies and trying to improve skills frequently. Strong logical thinking from multiple perspectives. Experienced in banking projects. Adapted to work effectively in a fast-paced environment.
+<h3>A .NET Developer with 7 years of experience. A professional degree holder of B.C.Sc. Willing to learn new technologies and trying to improve skills frequently. Strong logical thinking from multiple perspectives. Experienced in banking projects. Adapted to work effectively in a fast-paced environment.</h3>
 
-Personal Skills
+<b><u>Personal Skills</u></b>
     • Strong Problem-solving skills 
     • Willingness to learn new technologies 
     • Attention to detail and accuracy 
@@ -12,7 +12,7 @@ Personal Skills
     • Ability to work in a team environment 
     • love to code 
     
-Technical Skills
+<b><u>Technical Skills<u></b>
     • Programming Languages: C#, PHP, Python
     • Web Development: HTML, CSS, JavaScript, React, Angular
     • Databases: SQL Server, MySQL, PostgreSQL, Neo4j, MongoDB
