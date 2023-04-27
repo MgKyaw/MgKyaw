@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+<h1>Mg Kyaw<h1>
+
+A .NET Developer with 7 years of experience. A professional degree holder of B.C.Sc. Willing to learn new technologies and trying to improve skills frequently. Strong logical thinking from multiple perspectives. Experienced in banking projects. Adapted to work effectively in a fast-paced environment.
+
+Personal Skills
+    • Strong Problem-solving skills 
+    • Willingness to learn new technologies 
+    • Attention to detail and accuracy 
+    • Good communication skills 
+    • Ability to work in a team environment 
+    • love to code 
+    
+Technical Skills
+    • Programming Languages: C#, PHP, Python
+    • Web Development: HTML, CSS, JavaScript, React, Angular
+    • Databases: SQL Server, MySQL, PostgreSQL, Neo4j, MongoDB
+    • Source control management: Git, TortoiseSVN
+    • Software Development Methodologies: Agile, Scrum, Waterfall
+    • Project management: Nulab Backlog, trello, JIRA, Asana
+    • Cloud Computing: Azure, AWS
+
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning microservices
 <!--
 **MgKyaw/MgKyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
