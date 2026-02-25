@@ -2,7 +2,7 @@
 
 <h1>Mg Kyaw</h1>
 
-<h3>A .NET Developer with 7 years of experience. A professional degree holder of B.C.Sc. Willing to learn new technologies and trying to improve skills frequently. Strong logical thinking from multiple perspectives. Experienced in banking projects. Adapted to work effectively in a fast-paced environment.</h3>
+<h3>A .NET Developer with over 8 years of experience. A professional degree holder of B.C.Sc. Willing to learn new technologies and trying to improve skills frequently. Strong logical thinking from multiple perspectives. Experienced in banking projects. Adapted to work effectively in a fast-paced environment.</h3>
 
 <br>
 
