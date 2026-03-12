@@ -13,7 +13,6 @@
     <li>Attention to detail and accuracy</li>
     <li>Good communication skills</li>
     <li>Ability to work in a team environment</li>
-    <li>love to code</li>
 </ul>
 
 <br>
